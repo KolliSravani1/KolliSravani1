@@ -1,0 +1,5 @@
+print('Hello World!!')
+print('Hey have a great day!!')
+print('Have a great evening!!')
+print('Hey, how are you doing today?')
+print('ashdkf')
